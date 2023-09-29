@@ -1,0 +1,101 @@
+{
+    "profile": {
+        "avatar": "images/profile.jfif",
+        "name": "Nombre",
+        "profession": "Front-end developer",
+        "mail": "ejemplo@mail.com",
+        "phone": "+54 9 11-1234-5678",
+        "descrption": "Self-motivated developer, who is willing to learn and create outstanding UI applications. "
+    },
+    "skills": [
+        {
+            "title": "HTML",
+            "progress": "85"
+        },
+        {
+            "title": "CSS",
+            "progress": "75"
+        },
+        {
+            "title": "JS",
+            "progress": "85"
+        },
+        {
+            "title": "React",
+            "progress": "75"
+        }
+    ],
+    "proyectPreview":{
+        "responsive":[
+            {
+                "image": "images/proyecto.png",
+                "hashtag": "#HTML #CSS #resposive",
+                "title": "Responsive1",
+                "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
+            },
+            {
+                "image": "images/proyecto.png",
+                "hashtag": "#HTML #CSS #resposive",
+                "title": "Responsive2",
+                "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
+            },
+            {
+                "image": "images/proyecto.png",
+                "hashtag": "#HTML #CSS #resposive",
+                "title": "Responsive3",
+                "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
+            },
+            {
+                "image": "images/proyecto.png",
+                "hashtag": "#HTML #CSS #resposive",
+                "title": "Responsive4",
+                "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
+            }
+        ],
+        "javascript":[
+            {
+                "image": "images/proyecto.png",
+                "hashtag": "#HTML #CSS #resposive",
+                "title": "JavaScript1",
+                "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
+            },
+            {
+                "image": "images/proyecto.png",
+                "hashtag": "#HTML #CSS #resposive",
+                "title": "JavaScript2",
+                "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
+            }
+            ],
+        "react":{
+                    "image": "images/proyecto.png",
+                    "hashtag": "#HTML #CSS #resposive",
+                    "title": "React",
+                    "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
+                }
+    },
+    "experience":[
+        {
+            "image":"http://www.w3.org/2000/svg",
+            "title": "Front-end Developer",
+            "date": "Feb 2022 - Actualidad",
+            "descrption":"Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
+        }
+    ],
+    "certifications":[
+        {
+            "image":"images/certification.png",
+            "title": "Front-end Developer1",
+            "date": "Feb 2022 - Actualidad"
+        },
+        {
+            "image":"images/certification.png",
+            "title": "Front-end Developer2",
+            "date": "Feb 2022 - Actualidad"
+        },
+        {
+            "image":"images/certification.png",
+            "title": "Front-end Developer3",
+            "date": "Feb 2022 - Actualidad"
+        }
+    ]
+}
