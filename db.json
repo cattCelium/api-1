@@ -76,7 +76,19 @@
     "experience":[
         {
             "image":"http://www.w3.org/2000/svg",
-            "title": "Front-end Developer",
+            "title": "Front-end Developer 1",
+            "date": "Feb 2022 - Actualidad",
+            "descrption":"Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
+        },
+        {
+            "image":"http://www.w3.org/2000/svg",
+            "title": "Front-end Developer 2",
+            "date": "Feb 2022 - Actualidad",
+            "descrption":"Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
+        },
+        {
+            "image":"http://www.w3.org/2000/svg",
+            "title": "Front-end Developer 3",
             "date": "Feb 2022 - Actualidad",
             "descrption":"Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet."
         }
