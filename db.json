@@ -30,25 +30,25 @@
             {
                 "image": "images/proyecto.png",
                 "hashtag": "#HTML #CSS #resposive",
-                "title": "Responsive1",
+                "title": "Responsive 1",
                 "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
             },
             {
                 "image": "images/proyecto.png",
                 "hashtag": "#HTML #CSS #resposive",
-                "title": "Responsive2",
+                "title": "Responsive 2",
                 "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
             },
             {
                 "image": "images/proyecto.png",
                 "hashtag": "#HTML #CSS #resposive",
-                "title": "Responsive3",
+                "title": "Responsive 3",
                 "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
             },
             {
                 "image": "images/proyecto.png",
                 "hashtag": "#HTML #CSS #resposive",
-                "title": "Responsive4",
+                "title": "Responsive 4",
                 "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
             }
         ],
@@ -56,13 +56,13 @@
             {
                 "image": "images/proyecto.png",
                 "hashtag": "#HTML #CSS #resposive",
-                "title": "JavaScript1",
+                "title": "JavaScript 1",
                 "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
             },
             {
                 "image": "images/proyecto.png",
                 "hashtag": "#HTML #CSS #resposive",
-                "title": "JavaScript2",
+                "title": "JavaScript 2",
                 "descrption": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie. "
             }
             ],
@@ -96,17 +96,17 @@
     "certifications":[
         {
             "image":"images/certification.png",
-            "title": "Front-end Developer1",
+            "title": "Front-end Developer 1",
             "date": "Feb 2022 - Actualidad"
         },
         {
             "image":"images/certification.png",
-            "title": "Front-end Developer2",
+            "title": "Front-end Developer 2",
             "date": "Feb 2022 - Actualidad"
         },
         {
             "image":"images/certification.png",
-            "title": "Front-end Developer3",
+            "title": "Front-end Developer 3",
             "date": "Feb 2022 - Actualidad"
         }
     ]
